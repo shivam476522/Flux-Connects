@@ -1,0 +1,16 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#f5f7fa"/>
+  <g transform="translate(120,60)">
+    <rect x="0" y="0" width="200" height="140" rx="12" fill="#e0e7ef" stroke="#c7d7e6"/>
+    <path d="M40 60 h120" stroke="#1e88e5" stroke-width="6"/>
+    <circle cx="40" cy="60" r="10" fill="#64b5f6"/>
+    <circle cx="160" cy="60" r="10" fill="#64b5f6"/>
+    <rect x="250" y="0" width="200" height="140" rx="12" fill="#e0e7ef" stroke="#c7d7e6"/>
+    <path d="M270 40 h160" stroke="#43a047" stroke-width="8" />
+    <rect x="500" y="0" width="200" height="140" rx="12" fill="#e0e7ef" stroke="#c7d7e6"/>
+    <path d="M520 40 h160" stroke="#fb8c00" stroke-width="8" stroke-dasharray="12 8"/>
+    <rect x="750" y="0" width="200" height="140" rx="12" fill="#e0e7ef" stroke="#c7d7e6"/>
+    <path d="M770 40 h160" stroke="#8e24aa" stroke-width="8"/>
+  </g>
+  <title>Capabilities — Machinery and Wiring Icons</title>
+</svg>

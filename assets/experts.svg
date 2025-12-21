@@ -1,0 +1,14 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="300" fill="#f7f9fc"/>
+  <g transform="translate(140,70)">
+    <circle cx="90" cy="60" r="40" fill="#90caf9"/>
+    <rect x="40" y="120" width="100" height="16" rx="6" fill="#b0bec5"/>
+    <rect x="20" y="150" width="140" height="12" rx="6" fill="#cfd8dc"/>
+  </g>
+  <g transform="translate(720,70)">
+    <circle cx="90" cy="60" r="40" fill="#80deea"/>
+    <rect x="40" y="120" width="100" height="16" rx="6" fill="#b0bec5"/>
+    <rect x="20" y="150" width="140" height="12" rx="6" fill="#cfd8dc"/>
+  </g>
+  <title>Experts — Professional Silhouettes</title>
+</svg>

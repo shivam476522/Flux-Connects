@@ -1,0 +1,15 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="360" fill="#f8fbff"/>
+  <g transform="translate(120,70)">
+    <circle cx="160" cy="110" r="70" fill="#e3f2fd" stroke="#64b5f6"/>
+    <path d="M120 110 a40 40 0 1 0 80 0 a40 40 0 1 0 -80 0" fill="none" stroke="#1e88e5" stroke-width="4"/>
+    <rect x="320" y="55" width="360" height="18" rx="6" fill="#bbdefb"/>
+    <rect x="320" y="90" width="320" height="14" rx="6" fill="#e3f2fd"/>
+  </g>
+  <g transform="translate(120,70)">
+    <circle cx="780" cy="110" r="70" fill="#e8f5e9" stroke="#81c784"/>
+    <path d="M780 160 C 800 130, 810 100, 780 80 C 750 100, 760 130, 780 160" fill="#66bb6a"/>
+    <rect x="640" y="180" width="360" height="14" rx="6" fill="#c8e6c9"/>
+  </g>
+  <title>Vision and Mission — Globe and Sustainability</title>
+</svg>
